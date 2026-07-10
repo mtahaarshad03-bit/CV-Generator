@@ -31,4 +31,4 @@ Follow these simple steps to run the project locally on your machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+git clone [https://github.com/mtahaarshad03-bit/CV-Generator.git](https://github.com/mtahaarshad03-bit/CV-Generator.git)
